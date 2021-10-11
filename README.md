@@ -21,4 +21,4 @@ Step:
 
 5. Get NIK of KTP!
 
-[Uploading Step5.png…]()
+![Step5](https://user-images.githubusercontent.com/47806867/136726572-dbfe410b-bf18-41e0-9cd9-5dc01a192e1a.png)
