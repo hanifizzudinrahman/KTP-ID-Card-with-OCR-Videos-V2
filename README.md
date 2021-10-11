@@ -2,6 +2,8 @@
 
 # Need Optimize in OCR (Output: GET NIK of KTP)
 
+# YouTube: https://youtu.be/yTqChhm0v74
+
 Step:
 1. Open CAM
 
