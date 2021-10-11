@@ -1,8 +1,8 @@
 # KTP-ID-Card-with-OCR-Videos-V2
 
-# Need Optimize in OCR (Output: GET NIK of KTP)
-
 # YouTube: https://youtu.be/yTqChhm0v74
+
+# Need Optimize in OCR (Output: GET NIK of KTP)
 
 Step:
 1. Open CAM
